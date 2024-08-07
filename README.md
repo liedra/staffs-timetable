@@ -18,3 +18,4 @@ How to use:
 I mean it's basically probably not much more work to add everything repeating manually, so idk, if this doesn't work for you, don't waste time on it :)
 
 Use at your own risk, I'm happy to review pull requests but please don't ask me for support - this is a thing I did for myself and which I have put up here for anyone else interested to fiddle with. 
+Microsoft OAuth is used by Beacon to do authentication, hence my choice of manual bad ways to do this rather than banging my head against forces that are beyond my comprehension. 
